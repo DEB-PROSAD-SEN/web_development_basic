@@ -1,0 +1,14 @@
+.blog{
+    border: 1px solid rgb(0, 204, 255);
+    width: 20%;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 20px;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}

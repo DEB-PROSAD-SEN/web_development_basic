@@ -1,0 +1,33 @@
+h1{
+    color: rgba(0, 255, 255, 0.862);  
+    background-color: black;
+    height: 50px;}
+.name{
+        color: rgb(17, 13, 234);
+        font-size: 30px;
+        font-weight: 200;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }        
+p{
+    color: rgb(242, 0, 255); */
+    font-size: 50px; 
+    font-weight: 800;  
+    font-weight:60px;
+}
+#birthday{
+    color: rgb(17, 244, 104);
+    font-size: 20px;
+
+}
+img{
+    height: 30%;
+    width: 30%;
+}
+.univer{
+    color: rgb(234, 6, 6);
+}
+.div{
+    color: rgb(129, 16, 235);
+    background-color: blanchedalmond;
+     
+}
